@@ -1,0 +1,5 @@
+<meta>
+	<info author="Petya.D" type="script" name="dvd" />
+	<file src="dvd.png" />
+	<script src="dvd.c.lua" type="client" />
+</meta>
